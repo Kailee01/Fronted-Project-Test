@@ -1,0 +1,11 @@
+.movie-card {
+  border: 1px inset white;
+  margin: 0px 5px;
+  height: 99%;
+  overflow-y: scroll;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: #3f55d1;
+  justify-items: center;
+  grid-gap: 4px;
+}
